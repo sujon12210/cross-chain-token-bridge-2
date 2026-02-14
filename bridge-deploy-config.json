@@ -1,0 +1,16 @@
+{
+  "sourceChain": {
+    "name": "Ethereum Sepolia",
+    "bridgeAddress": "0x...",
+    "tokenAddress": "0x..."
+  },
+  "destChain": {
+    "name": "Polygon Amoy",
+    "bridgeAddress": "0x...",
+    "wrappedTokenAddress": "0x..."
+  },
+  "relayerConfig": {
+    "confirmationBlocks": 12,
+    "maxGasPrice": "50000000000"
+  }
+}
